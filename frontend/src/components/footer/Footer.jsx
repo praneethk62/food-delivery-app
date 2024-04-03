@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="footer" id="footer">
       <div className="footer-content">
         <div className="footer-content-left">
-          <img src={assets.tastywheel} alt="" />
+          <img className='logo' src={assets.tastywheel} alt="" />
           <p>
             Indulge in our delectable culinary creations, expertly crafted to
             satisfy your cravings and elevate your dining experience. Explore,
