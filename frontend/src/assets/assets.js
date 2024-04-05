@@ -81,7 +81,8 @@ export const assets = {
   logout_icon,
   bag_icon,
   parcel_icon,
-  tastywheel
+  tastywheel,
+  
 };
 
 export const menu_list = [
