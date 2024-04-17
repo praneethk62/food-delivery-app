@@ -1,1 +1,9 @@
-# food-delivery-app
+![Screenshot 2024-04-17 145846](https://github.com/praneethk62/food-delivery-app/assets/133975151/a794d777-42c9-45df-a406-60189d08bd75)
+![Screenshot 2024-04-17 145953](https://github.com/praneethk62/food-delivery-app/assets/133975151/a69fd00e-19a8-4a23-a9a9-656327e1525e)
+![Screenshot 2024-04-17 150014](https://github.com/praneethk62/food-delivery-app/assets/133975151/9f26973c-ea34-4232-9345-57241bc2d7c7)
+![Screenshot 2024-04-17 150034](https://github.com/praneethk62/food-delivery-app/assets/133975151/739b2817-d252-45bd-be12-0da7fc5470f6)
+![Screenshot 2024-04-17 150059](https://github.com/praneethk62/food-delivery-app/assets/133975151/d62b9eb1-cc68-491a-bd8b-a3ae1b4f7a38)
+![Screenshot 2024-04-17 150127](https://github.com/praneethk62/food-delivery-app/assets/133975151/254dd2cd-681a-4d04-8d9f-3fbc81faaa5d)
+![Screenshot 2024-04-17 150143](https://github.com/praneethk62/food-delivery-app/assets/133975151/8d00c6ea-fb14-4140-9cc6-ac0b8e58bc1a)
+![Screenshot 2024-04-17 150201](https://github.com/praneethk62/food-delivery-app/assets/133975151/ab6b943a-9d81-469f-a64c-01a31748e9bb)
+![Screenshot 2024-04-17 150221](https://github.com/praneethk62/food-delivery-app/assets/133975151/80c46335-9d3a-459b-a7e5-97ef1752d540)
